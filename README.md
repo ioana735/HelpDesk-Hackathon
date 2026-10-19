@@ -3,7 +3,7 @@
 🏆 **1st Place — TEDIHT Hackathon 2026** (EDIH Transilvania, EU-cofinanced, 3-month program)  
 🎤 **Presented as a poster at ACM womENcourage 2026** (Nice, France)
 
-An AI helpdesk chatbot for the Romanian public sector. Citizens ask procedural questions in Romanian ("What documents do I need for…?") and get answers grounded in official documents, using retrieval-augmented generation (RAG).
+An AI helpdesk chatbot for public-institution employees in Romania. Staff ask procedural questions in Romanian and get answers grounded in official documents, using retrieval-augmented generation (RAG). Built for Challenge 1 (Intelligent Helpdesk) of the TEDIHT hackathon "Solutions for the digitalization of the public sector", which had 14 competing teams.
 
 ## How it works
 
@@ -35,4 +35,4 @@ I owned the **chat UI**: token-by-token streaming, typing indicators, message pe
 
 ## Team
 
-Built by a team of 3: [@leatanabela](https://github.com/leatanabela), [@iohanamranovatz](https://github.com/iohanamranovatz), [@ioana735](https://github.com/ioana735).
+Team **Powerpuff** (3 members): [@leatanabela](https://github.com/leatanabela), [@iohanamranovatz](https://github.com/iohanamranovatz), [@ioana735](https://github.com/ioana735).
